@@ -26,11 +26,11 @@ Coverdash Demo React Project
 Install this library with peer dependencies:
 
 ```bash
-pnpm add @coverdash/quotes
-# or
 yarn add @coverdash/quotes
 # or
 npm i @coverdash/quotes
+# or
+pnpm add @coverdash/quotes
 ```
 
 Then, import and use the component:
